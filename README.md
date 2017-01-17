@@ -1,5 +1,6 @@
 # ds-response
 
+[Link to original article](http://courses.csail.mit.edu/18.337/2015/docs/50YearsDataScience.pdf)
 
 ## Issues
 - Focus should be on creating useable tools along with data science education:
