@@ -1,0 +1,40 @@
+---
+title: "Response to "
+author: "Heike Hofmann & Susan VanderPlas"
+output:
+  html_document: default
+bibliography: refs.bib
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = F)
+```
+
+
+<!--# Introduction-->
+David Donoho's "50 years of Data Science" provides a valuable perspective on the statistics-vs-data science debate that has been raging in academic statistics departments over the past 10 <!--???--> years. The debate about the relative merits of theoretical and applied statistics flares up occasionally, and even in the infancy of statistics as a discipline distinct from mathematics, there was "something slightly disreputable about mathematical statistics" because of its applied nature[@salsburg2001lady, pp. 208]. It seems, however, that we may be witnessing the birth of the academic discipline of data science as a separate entity from statistics. While data science itself has been around for 50 years or more, according to Donoho, academic initiatives focusing on the practice of data analysis are becoming ever more popular.
+
+<!--# Historical Parallels -->
+## Historical Parallels
+Statistics became an academic discipline separate from mathematics in part due to the focus on problems of a more applied nature that involved real-world data. The first standalone statistics department was at Iowa State University, founded by George Snedecor, and was focused primarily on statistical analyses of agricultural data. A particularly illustrative paragraph from A Lady Tasting Tea [@salsburg2001lady, pp. 216] illustrates the development of statistics as separate from mathematics and lays the foundation for our current situation: 
+
+> The mathematics departments of American and European universities missed the boat when mathematical statistics arrived on the scene. With Wilks leading the way, many universities developed separate statistics departments. The mathematics departments missed the boat again when the digital computer arrived, disdaining it as a mere machine for doing engineering calculations. Separate computer science departments arose, some of them spun off from engineering departments, others spun off from statistics departments. The next big revolution that involved new mathematical ideas was the development of molecular biology in the 1980s. As we shall see in chapter 28, both the mathematics and the statistics departments missed that particular boat.
+
+
+The parallels are obvious; as statistics has matured as a discipline, researchers have specialized, focusing on the practice of data analysis or on the minutiae of theoretical underpinnings of statistical techniques. Those in the first group are beginning to call themselves "Data Scientists", while those in the second group continue to refer to themselves as "Statisticians". 
+
+Another parallel can be drawn between the beginning of academic statistics and the beginning of academic data science. As statistics developed as an academic discipline distinct from mathematics, there were many new tools and techniques for analyzing data: ANOVA, least-squares regression, Box-Cox transformations, etc. These tools were applied to problems of the day, and as the field matured, some of the tools were replaced by more technologically appropriate techniques. Similarly, there are a flurry of tools for doing data science which are currently in vogue (`knitr`, the tidyverse, `CARAT`, `hadoop`), some of which contain lasting approaches to data analysis and some that will be supplanted as technology changes. 
+
+
+## The Practice of Data Science
+<!-- Now for the critical part -->
+
+- Focus for academic statisticians should be jointly on tool creation and education
+- Tool creation isn't a separate "6th Division of data science" - tool creation is a companion to every other division of data science. It is integral to the process!
+- Call out people who are doing both data science and tool creation. 
+
+- Discussion of prediction vs. inference
+    - shouldn't swing too far to one side or another - in industry, models still have to be explained and justified to management. It's critical to know when the model is likely to be wrong or less trustworthy. 
+    - Traditional statistics tends to focus on inference and use prediction as a goal to fit a model so that parameter values can be analyzed and inferred from that model. (or at least, parametric statistics seems that way).
+
+
