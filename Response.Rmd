@@ -37,7 +37,11 @@ Rather than dividing data science into six divisions, we would suggest that ther
 3. Data Representation and Transformation
 4. Computing with Data
 5. Data Modeling
-6. Data Visualization and Presentation
+6. Data Visualization and Presentation -- HH: I'd like to exchange this for Communication of Results. Just like Data exploration without visualization is unthinkable, presentation of results are much harder without visualizations. Explicitly mentioning Data Visualization in one but not the other part might lead to the (superficial) impression that Data Visualization does not start until point 6 in the process. 
+
+
+
+
 
 5 of these steps concur with the divisions of data science in Donoho's article; we have exchanged data provenance for "Science about Data Science". 
 
