@@ -56,5 +56,10 @@ Each of these steps in a data analysis can be practiced, researched, and taught.
     - shouldn't swing too far to one side or another - in industry, models still have to be explained and justified to management. It's critical to know when the model is likely to be wrong or less trustworthy. 
     - Traditional statistics tends to focus on inference and use prediction as a goal to fit a model so that parameter values can be analyzed and inferred from that model. (or at least, parametric statistics seems that way).
 
+## Teaching of DS
+
+not just football or baseball, please. What is laudable, though, is that these are real-life data. 
+
+Teaching DS: PCMI guidelines
 
 # References
