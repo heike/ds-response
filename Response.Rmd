@@ -28,6 +28,21 @@ Another parallel can be drawn between the beginning of academic statistics and t
 
 ## The Practice of Data Science
 <!-- Now for the critical part -->
+The practice of data science cannot be easily separated from research into data science and teaching data science skills. Often, there is a cycle, where an idea is created to solve a practical problem, then extended and applied to a wider set of problems through research, and is finally taught to new practitioners of data science, who then develop new tools. This cycle of practice, research, teaching, and practice can be applied to several distinct areas of data science. 
+
+Rather than dividing data science into six divisions, we would suggest that there are 6 steps in any data analysis, and thus six parts of data science:
+
+1. Data Provenance
+2. Data Exploration and Preparation
+3. Data Representation and Transformation
+4. Computing with Data
+5. Data Modeling
+6. Data Visualization and Presentation
+
+5 of these steps concur with the divisions of data science in Donoho's article; we have exchanged data provenance for "Science about Data Science". 
+
+Each of these steps in a data analysis can be practiced, researched, and taught. Tool development for data science often flows from practice to research and then is taught to new individuals; occasionally, tools flow from teaching to practice to research instead. 
+
 
 - Focus for academic statisticians should be jointly on tool creation and education
 - Tool creation isn't a separate "6th Division of data science" - tool creation is a companion to every other division of data science. It is integral to the process!
