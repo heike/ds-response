@@ -1,5 +1,7 @@
 # ds-response
 
+[Link to original article](http://courses.csail.mit.edu/18.337/2015/docs/50YearsDataScience.pdf)
+
 ## Issues
 - Focus should be on creating useable tools along with data science education:
     - Jenny Bryan
@@ -22,4 +24,8 @@
     2. Defensability - how to explain the model to a manager?
     
     - This may be at least part of why statisticians are so uncomfortable with machine learning techniques that don't explicitly model error distributions. It's worth acknowledging that they may have a point.
-    
+
+
+## Other Stuff
+
+It may be worth pointing out that I'm working in industry helping to set up a data science program; it's an angle that might give a bit more gravity to some of our critiques. We have both sides- data science in education and data science in practice. 
