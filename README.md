@@ -24,7 +24,7 @@
     2. Defensability - how to explain the model to a manager?
     
     - This may be at least part of why statisticians are so uncomfortable with machine learning techniques that don't explicitly model error distributions. It's worth acknowledging that they may have a point.
-    
+
 
 ## Other Stuff
 
