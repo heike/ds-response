@@ -64,8 +64,13 @@ Donoho suggests that by combining predictive inference with the Common Task Fram
 
 
 ## Teaching of DS
+Donoho suggests that teaching data science should be focused on the 6 branches of data science: We must teach not just data modeling, but also data exploration, preparation, computing, and visualization. Donoho suggests using two baseball-focused resources to accomplish this task, and while we applaud the use of real-life data, it is important to point out that students who are not interested in baseball might get the impression that baseball is all there is to statistics. This does an incredible disservice to the statistical community. When one of the authors took linear models, all of the material was discussed in the context of agricultural field experiments, and students with no interest in corn and soybean plots had a much harder time relating to the fundamental concepts. In any course, it is important to provide diversity! Courses should use data from a variety of real life sources: baseball, but also social network data, historical data from the US Census, data from experiments conducted at the university (including data from split plot agricultural experiments), and many other sources. 
 
+What is important is that data used in statistics and data science courses should be messy, requiring students to grapple not only with the statistical methods and models which are applied to the data but also with data cleaning and tools used to accomplish this task. While this approach requires more of an investment (for instance, students may need to be exposed to packages like `stringr` along with tools for modeling statistical networks), it promises to produce students who are fully able to handle real-world data and are thus capable of working in academia or in industry right out of school.
+
+<!--
 not just football or baseball, please. What is laudable, though, is that these are real-life data. 
+-->
 
 Teaching DS: PCMI guidelines
 
