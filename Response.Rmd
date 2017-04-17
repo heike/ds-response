@@ -29,7 +29,7 @@ Some of the popularity of recently developed tools in R, such as `knitr` or `tid
 
 ## The Practice of Data Science
 <!-- Now for the critical part -->
-The practice of data science cannot be easily separated from research into data science and teaching data science skills. Often, there is a cycle, where an idea is created to solve a practical problem, then extended and applied to a wider set of problems through research, and is finally taught to new practitioners of data science, who then develop new tools. This cycle of practice, research, teaching, and practice can be applied to several distinct areas of data science. 
+The practice of data science cannot be easily separated from research into data science and teaching data science skills. Often, there is a cycle, where an idea develops as a solution to solve a practical problem, then is extended and applied to a wider set of problems through research, and is finally taught to new practitioners of data science, who then develop new tools. This cycle of practice, research, teaching, and practice can be applied to several distinct areas of data science. 
 
 Rather than dividing data science into six divisions, we would suggest that there are 6 steps in any data analysis, and thus six parts of data science:
 
