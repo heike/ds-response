@@ -11,6 +11,10 @@ knitr::opts_chunk$set(echo = F)
 ```
 
 
+# TODO
+- Package Refs
+- 
+
 <!--# Introduction-->
 David Donoho's "50 years of Data Science" provides a valuable perspective on the statistics-vs-data science debate that has been raging in academic statistics departments over the past couple of years. The debate about the relative merits of theoretical and applied statistics flares up occasionally, and even in the infancy of statistics as a discipline distinct from mathematics, there was "something slightly disreputable about mathematical statistics" because of its applied nature [@salsburg2001lady, pp. 208]. It seems, however, that we may be witnessing the birth of the academic discipline of data science as a separate entity from statistics. While data science itself has been, according to Donoho, around for 50 years or more, academic initiatives focusing on the practice of data analysis are becoming ever more popular.
 
