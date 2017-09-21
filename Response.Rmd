@@ -1,5 +1,5 @@
 ---
-title: "Response to David Donoho's paper *50 years of Data Science*"
+title: "All of this has happened before. All of this will happen again."
 author: "Heike Hofmann & Susan VanderPlas"
 output:
   pdf_document: default
