@@ -1,5 +1,5 @@
 ---
-title: "All of this has happened before. All of this will happen again."
+title: "All of this has happened before. All of this will happen again: Data Science"
 author: "Heike Hofmann & Susan VanderPlas"
 output:
   pdf_document: default
@@ -46,7 +46,7 @@ Rather than dividing data science into six divisions, we would suggest that ther
 5. Data Modeling
 6. Communication of Results
 
-5 of these steps roughly concur with the divisions of data science in Donoho's article; we have exchanged data provenance for "Science about Data Science". We have also rephrased "Data Visualization and Presentation" as "Communication of Results". Just as data exploration without visualization is unthinkable, presentation of results are much harder without visualizations. Explicitly mentioning visualization in one but not the other part might lead to the (superficial) impression that data visualization does not start until point 6 in the process.
+Five of these steps roughly concur with the divisions of data science in Donoho's article; we have exchanged data provenance for "Science about Data Science". We have also rephrased "Data Visualization and Presentation" as "Communication of Results". Just as data exploration without visualization is unthinkable, presentation of results are much harder without visualizations. Explicitly mentioning visualization in one but not the other part might lead to the (superficial) impression that data visualization does not start until point 6 in the process.
 
 Each of these steps in a data analysis can be practiced, researched, and taught. Tool development for data science often flows from practice to research and then is taught to new individuals; occasionally, tools flow from teaching to practice to research instead. Several of Jenny Bryan's packages appear to have been inspired by differences in workflow between data scientists and collaborators from other areas (`googlesheets` by @googlesheets, `linen` @linen, `jailbreakr` @jailbreakr), while other packages seem to flow from experience teaching data science (`githug`, @githug). 
 
